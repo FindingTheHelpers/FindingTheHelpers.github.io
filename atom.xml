@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title><![CDATA[Finding The Helpers]]></title>
-	<link href="http://FindingTheHelpers.github.io/atom.xml" rel="self"/>
-	<link href="http://FindingTheHelpers.github.io/"/>
-	<updated>2013-07-24T21:27:55-06:00</updated>
-	<id>http://FindingTheHelpers.github.io/</id>
+	<link href="http://findingthehelpers.org/atom.xml" rel="self"/>
+	<link href="http://findingthehelpers.org/"/>
+	<updated>2013-07-24T21:28:40-06:00</updated>
+	<id>http://findingthehelpers.org/</id>
 	<author>
 		<name><![CDATA[Justin Carmony]]></name>
 		

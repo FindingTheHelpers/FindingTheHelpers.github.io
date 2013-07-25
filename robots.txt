@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://FindingTheHelpers.github.io/sitemap.xml 
+Sitemap: http://findingthehelpers.org/sitemap.xml 
