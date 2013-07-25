@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.findingthehelpers.org/about/</loc>
+        <lastmod>2013-07-24T23:59:25-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.findingthehelpers.org/blog/archives/</loc>
         <lastmod>2013-07-24T15:35:58-06:00</lastmod>
     </url>
@@ -11,5 +15,9 @@
     <url>
         <loc>http://www.findingthehelpers.org/robots.txt</loc>
         <lastmod>2013-07-24T14:45:07-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.findingthehelpers.org/submit/</loc>
+        <lastmod>2013-07-25T00:04:21-06:00</lastmod>
     </url>
 </urlset>
